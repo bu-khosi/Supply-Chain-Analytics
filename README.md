@@ -70,3 +70,8 @@ Author
 Golden Gabula
 
 Data Analytics | Power BI | Python | Data Science
+
+GitHub: https://github.com/bu-khosi
+
+LinkedIn: https://www.linkedin.com/in/golden-gabula-610a21266
+
